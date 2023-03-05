@@ -1,0 +1,80 @@
+body {
+    font-family: Varela Round;
+    font-weight: 900;
+    background-color: orchid;
+    margin: 0;
+}
+
+#quote-container {
+    font-size: 60px;
+    border: 2px solid mediumslateblue;
+    border-radius: 25px;
+    width: 800px;
+    height: 350px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    color: mintcream;
+    background-color: mediumslateblue;
+}
+
+#quote-span {
+    font-size: 30px
+}
+
+#about-container {
+    width: 1500px;
+    height: 700px;
+    border-radius: 25px;
+    margin: 75px auto 75px auto;
+    background-color: mediumslateblue;
+}
+
+#navbar-container {
+    height: 120px;
+    background-color: mediumslateblue;
+}
+
+#about-header {
+    font-size: 90px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-align: center;
+    color: mintcream;
+}
+
+#about-center {
+    width: 90%;
+    height: 70%;
+    margin: 0 auto 0 auto;
+    border-radius: 25px;
+    background-color: mintcream;
+}
+
+#about-img {
+    display: inline-block;
+    margin-top: 49px;
+    margin-left: 40px;
+    width: auto;
+    height: 80%;
+    border-radius: 25px;
+}
+
+#about-text {
+    display: inline-block;
+    margin: 0 0 0 15px;
+    text-align: center;
+    font-size: 40px;
+    width: 70%;
+    height: auto;
+}
+
+#home-container {
+    margin: 0 0 0 20px;
+}
+
+#home-icon {
+    font-size: 100px;
+}
